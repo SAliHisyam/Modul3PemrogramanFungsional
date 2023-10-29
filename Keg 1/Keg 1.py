@@ -1,4 +1,3 @@
-# Buat fungsi yang melakukan konversi
 def konversi_menit(minggu):
     def konversi_hari(hari):
         def konversi_jam(jam):
